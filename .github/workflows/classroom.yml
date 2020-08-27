@@ -5,7 +5,7 @@ on:
     branches: [ main ]
 
 env:
-  homework: ${{ 'HomeworkName' }}
+  homework: ${{ 'SimpleJsonWriter' }}
 
 jobs:
   build:
